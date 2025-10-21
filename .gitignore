@@ -1,0 +1,13 @@
+# تجاهل إعدادات PyCharm
+.idea/
+*.iml
+
+# تجاهل ملفات الكاش الخاصة ببايثون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# تجاهل ملفات النظام
+.DS_Store
+Thumbs.db
